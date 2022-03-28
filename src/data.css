@@ -1,0 +1,25 @@
+.judul{
+    position: absolute;
+    color:black;
+    text-align: center;
+    left: 410px;
+    top: 40px
+
+}
+
+.tampilan{
+    position:relative;
+}
+
+.bg{
+    background-color: #99c2ff;
+    position: absolute;
+    width: 219vh;
+    height: 100vh  
+
+}
+
+.img{
+    border-radius: 10px;
+}
+
